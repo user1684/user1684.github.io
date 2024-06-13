@@ -47,17 +47,17 @@ Software Development Engineer - YZ Cloud Co., Ltd. <span style="float: right; ">
 * Responsible for the development and maintenance of business websites based on SSH framework, and secondary development and maintenance of business websites based on OpenCart
 
 ### PROJECTS
-**Database Management System (NEU)** <span style="float: right; ">2023 - Present</span><br>
+Database Management System (NEU) <span style="float: right; ">2023 - Present</span><br>
 <small> Java, Netty, gRPC </small> 
 * Developed a Mysql schema C/S DBMS, covering Buffer Pool, log file and B Plus Tree storage using TDD approach
 * Implemented aggregation, query planner and optimization, and Multi-Version Concurrency Control (MVCC)
 
-**Exam Preperation App (NEU)** <span style="float: right; ">2023 - Present</span><br>
+Exam Preperation App (NEU) <span style="float: right; ">2023 - Present</span><br>
 <small> AWS, GCP, Spring Boot, Hibernate, UIkit, Python, Shell </small> 
 * Built a full-stack highly scalable iOS application offering practice questions and quizzes for AWS Certifications
 * Implemented Pub/Sub pattern by SNS and AWS Lambda, maintained CI/CD pipeline with GitHub Actions, utilizing Packer for AMI creation, Pulumi for infrastructure provisioning, and logging with CloudWatch agent
 
-**Cryptocurrency News** <span style="float: right; ">2020 - 2020</span><br>
+Cryptocurrency News <span style="float: right; ">2020 - 2020</span><br>
 <small> Django, Mysql, MongoDB, Celery, Scrapy-Redis </small>
 * Developed a Wechat Mini Program targeting fans of cryptocurrency, based on material design and backed by Django, CDN syncing, and MongoDB grossing over 1,650 users, with over 100 daily active users
 * Built distributed crawlers using Scrapy-Redis and initiated asynchronous message notification through Celery
