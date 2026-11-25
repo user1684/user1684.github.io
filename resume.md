@@ -29,6 +29,14 @@ Fuzhou University of international studies and trade <span style="float: right; 
   
 ### EXPERIENCE
 
+Software Development Engineer - Stealth Mode <span style="float: right; ">2024 - Present</span>  
+* Developed an enterprise AI application platform supporting low-code/no-code workflow automation
+* Built a WebSocket-based event bus to support real-time communication, asynchronous task execution, and streaming responses
+* Designed full and incremental data synchronization mechanisms for large-scale service migration
+* Developed serverless data processing pipelines using Lambda and DynamoDB, implementing pagination, parallel processing, and automatic task continuation
+* Developed interactive forms, charts, and streaming UI components using React, TypeScript, and Redux-Saga
+* Implemented frontend and backend latency metrics, automated integration tests, and multi-region feature rollouts
+
 Teaching Assistant - Northeastern University <span style="float: right; ">2023 - 2023</span>  
 * Developed a [visualization](https://nimble-mochi-a4fe14.netlify.app) of Dijkstra’s Algorithm, enhancing student comprehension and engagement in learning
 * Assisted professor in class, provided algorithm tutoring to 38 students, and reviewed Pull Requests on Github
