@@ -30,7 +30,7 @@ Fuzhou University of international studies and trade <span style="float: right; 
 ### EXPERIENCE
 
 Software Development Engineer - Stealth Mode <span style="float: right; ">2024 - Present</span>  
-* Developed an enterprise AI application platform supporting low-code/no-code workflow automation
+* Developed an enterprise AI application platform supporting workflow automation
 * Built a WebSocket-based event bus to support real-time communication, asynchronous task execution, and streaming responses
 * Designed full and incremental data synchronization mechanisms for large-scale service migration
 * Developed serverless data processing pipelines using Lambda and DynamoDB, implementing pagination, parallel processing, and automatic task continuation
