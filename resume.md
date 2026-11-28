@@ -21,7 +21,7 @@ title: Leo Lin
 
 ### 教育背景
 
-美国东北大学（Northeastern University） <span style="float: right; ">2022 - 2024</span><br>
+美国东北大学 <span style="float: right; ">2022 - 2024</span><br>
 <small>计算机软件工程 · 硕士 | GPA: 3.88 / 4.0</small>
 
 福州外语外贸学院 <span style="float: right; ">2015 - 2019</span><br>
