@@ -18,13 +18,13 @@ title: Leo Lin
 数据库与中间件: DynamoDB, MySQL, Redis, MongoDB, RabbitMQ, Elasticsearch <br>
 工程实践: 分布式系统, 事件驱动架构, CI/CD, 系统可观测性 <br>
 
+
 ### 教育背景
 
-美国东北大学 (Northeastern University) <span style="float: right; ">2022 - 2024</span>  
-<small>计算机软件工程 · 硕士</small>
-* GPA: 3.88 / 4.0
+美国东北大学（Northeastern University） <span style="float: right; ">2022 - 2024</span><br>
+<small>计算机软件工程 · 硕士 | GPA: 3.88 / 4.0</small>
 
-福州外语外贸学院 <span style="float: right; ">2015 - 2019</span>  
+福州外语外贸学院 <span style="float: right; ">2015 - 2019</span><br>
 <small>信息管理与信息系统 · 本科</small>
 
 ### 工作经历
