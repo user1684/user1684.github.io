@@ -1,80 +1,57 @@
+
 ---
 layout: page
-title: Leo Lin 
+title: Leo Lin
 # subtitle: An awesome person
 ---
 
-<!-- <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> -->
+<!-- <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载 PDF</strong></a> </span> -->
 <!-- <br> -->
-phone: +16576607095 <br>
-email: irgame8@163.com <br>
-<!-- github: [https://github.com/user1684](https://github.com/user1684) -->
+电话: +16576607095 <br>
+邮箱: irgame8@163.com <br>
+<!-- github: https://github.com/user1684 -->
 
-### SKILLS
-Languages: Java11, Python3, Typescript, Swift, C, SQL, Shell, HTML5 <br>
-Frameworks & Lib: Spring ecosystem, Netty, JUC, Express.js, Node.js, React.js, Django, Axios, Hibernate, Mybatis <br>
-Tools & Platforms: Kubernetes, Docker, Jenkins, Terraform, Pulumi, Github Action, Bitbucket, Jira, GitLab, AWS Suite (Lambda, SNS, SQS, ASG etc), GCP, VisualVM, Mysql, MongoDB, RabbitMQ, ElasticSearch, Nginx, Maven <br>
+### 专业技能
 
-### EDUCATION
+编程语言: Java, TypeScript, Python, Go, C, SQL <br>
+框架与技术: Spring Boot, Netty, JUC, Node.js, React.js, Django, gRPC, WebSocket <br>
+云计算与基础设施: AWS, GCP, Kubernetes, Docker, Terraform, Pulumi <br>
+数据库与中间件: DynamoDB, MySQL, Redis, MongoDB, RabbitMQ, Elasticsearch <br>
+工程实践: 分布式系统, 事件驱动架构, CI/CD, 系统可观测性 <br>
 
-Northeastern University <span style="float: right; ">2022 - 2024</span>  
-<small>Master, Computer Software Engineering</small>
+### 教育背景
+
+美国东北大学 (Northeastern University) <span style="float: right; ">2022 - 2024</span>  
+<small>计算机软件工程 · 硕士</small>
 * GPA: 3.88 / 4.0
-* Course: application development, big-data apps and indexing tech, network structures and cloud computing
 
-Fuzhou University of international studies and trade <span style="float: right; ">2015 - 2019</span>  
-<small>Bachelor, Information System and Information Management</small>
-* GPA: 82 / 100
-* Course: operating system, computer network, data structure and algorithms, linux system management
-  
-### EXPERIENCE
+福州外语外贸学院 <span style="float: right; ">2015 - 2019</span>  
+<small>信息管理与信息系统 · 本科</small>
 
-Software Development Engineer - Stealth Mode <span style="float: right; ">2024 - Present</span>  
-* Developed an enterprise AI application platform supporting workflow automation
-* Built a WebSocket-based event bus to support real-time communication, asynchronous task execution, and streaming responses
-* Designed full and incremental data synchronization mechanisms for large-scale service migration
-* Developed serverless data processing pipelines using Lambda and DynamoDB, implementing pagination, parallel processing, and automatic task continuation
-* Developed interactive forms, charts, and streaming UI components using React, TypeScript, and Redux-Saga
-* Implemented frontend and backend latency metrics, automated integration tests, and multi-region feature rollouts
+### 工作经历
 
-Teaching Assistant - Northeastern University <span style="float: right; ">2023 - 2023</span>  
-* Developed a [visualization](https://nimble-mochi-a4fe14.netlify.app) of Dijkstra’s Algorithm, enhancing student comprehension and engagement in learning
-* Assisted professor in class, provided algorithm tutoring to 38 students, and reviewed Pull Requests on Github
- 
-Software Development Engineer - Ipser Lab. <span style="float: right; ">2023 - 2023</span>  
-* Developed Kanban, a Real-Time Communication module of the Meting Application utilizing Typescript, Socket.io
-* Realized customized React Hook filter 68% of invalid requests to the backend, reduced waiting time with Optimistic Updates 90% based on React-Query, customized Ant Design with styled component, and test it with Jest
-* Implemented a Selective Forwarding Unit server for WebRTC using Node.js, reducing resource usage by 40%
-* Achieved concurrent uploading in chunks using Axios, break-point resumption through Web Worker, allowing for asynchronous file hash calculation improving user response speed by 90%, and providing chunks download
+软件开发工程师 - 科技公司（隐身模式） <span style="float: right; ">2024 - 至今</span>  
+* 参与企业级 AI 应用平台研发，支持智能工作流编排、业务流程自动化及 AI 应用构建
+* 设计并实现基于 WebSocket 的事件总线，支持实时通信、异步任务执行及流式响应
+* 设计大规模跨服务数据迁移方案，实现全量与增量数据同步机制
+* 基于 React、TypeScript 和 Redux-Saga 开发动态表单、数据可视化及流式交互组件
+* 建立前后端链路延迟监控指标，完善自动化集成测试及多区域灰度发布机制
 
-Software Development Engineer - Chongqing Jero Technology Co., Ltd. <span style="float: right; ">2021 - 2021</span>  
-* Collaborated in the development and test of CRM system, designed database schema in Mysql based on RBAC
-* Participated in the development of a canteen WeChat Program using the Spring Boot ecosystem, established CI/CD pipelines with Jenkins for automated testing, integrated JUnit and Mockito
+软件开发工程师（实习）- 艾普瑟实验室 <span style="float: right; ">2023</span>  
+* 基于 TypeScript 和 Socket.IO 构建实时协作模块，实现多用户实时交互与数据同步
+* 通过自定义 React Hooks 和乐观更新机制，减少 68% 的无效后端请求，降低 90% 的用户交互等待时间
+* 基于 Node.js 实现 WebRTC SFU 服务，降低 40% 的资源消耗
+* 实现大文件并发分片上传、断点续传、异步哈希计算及分片下载
 
-Software Development Engineer - YZ Cloud Co., Ltd. <span style="float: right; ">2016 - 2017</span>  
-* Responsible for the development and maintenance of business websites based on SSH framework, and secondary development and maintenance of business websites based on OpenCart
+### 项目经历
 
-### PROJECTS
-Database Management System (NEU) <span style="float: right; ">2023 - Present</span><br>
-<small> Java, Netty, gRPC </small> 
-* Developed a Mysql schema C/S DBMS, covering Buffer Pool, log file and B Plus Tree storage using TDD approach
-* Implemented aggregation, query planner and optimization, and Multi-Version Concurrency Control (MVCC)
+关系型数据库管理系统 <span style="float: right; ">2023</span><br>
+<small>Java, Netty, gRPC</small>
+* 采用测试驱动开发（TDD）模式，从底层实现关系型数据库管理系统，包括缓冲池、日志管理及 B+ Tree 存储结构
+* 实现聚合查询、查询计划生成、查询优化及多版本并发控制（MVCC）
 
-Exam Preperation App (NEU) <span style="float: right; ">2023 - Present</span><br>
-<small> AWS, GCP, Spring Boot, Hibernate, UIkit, Python, Shell </small> 
-* Built a full-stack highly scalable iOS application offering practice questions and quizzes for AWS Certifications
-* Implemented Pub/Sub pattern by SNS and AWS Lambda, maintained CI/CD pipeline with GitHub Actions, utilizing Packer for AMI creation, Pulumi for infrastructure provisioning, and logging with CloudWatch agent
-
-Cryptocurrency News <span style="float: right; ">2020 - 2020</span><br>
-<small> Django, Mysql, MongoDB, Celery, Scrapy-Redis </small>
-* Developed a Wechat Mini Program targeting fans of cryptocurrency, based on material design and backed by Django, CDN syncing, and MongoDB grossing over 1,650 users, with over 100 daily active users
-* Built distributed crawlers using Scrapy-Redis and initiated asynchronous message notification through Celery
-
-### OTHERS
-
-- Independently writes the "Blockchain Essays" series, including but not limited to daily updated market analysis and blockchain knowledge sharing and dissemination, with about 1,600 fans
-
-<!-- - Translate 3 books from English to Chinese<br>
-[Johnny Depp(published 2017.3)](https://book.douban.com/subject/26939902/)<br>
-[All is not Forgotten(published 2017.10)](https://book.douban.com/subject/27107197/)<br>
-[How to Stop Time(published 2018.8)](https://book.douban.com/subject/30223818/) -->
+数字资产资讯平台 <span style="float: right; ">2020</span><br>
+<small>Django, MySQL, MongoDB, Celery, Scrapy-Redis</small>
+* 独立开发数字资产资讯微信小程序，累计用户超过 1,650 人，日活跃用户超过 100 人
+* 基于 Scrapy-Redis 构建分布式数据采集系统，通过 Celery 实现异步消息通知
+* 独立运营《区块链随笔》系列内容，涵盖市场分析及区块链技术分享，累计粉丝约 1,600 人
