@@ -25,8 +25,7 @@ title: Leo Lin
 <small>计算机软件工程 · 硕士 | GPA: 3.88 / 4.0</small>
 
 福州外语外贸学院 <span style="float: right; ">2015 - 2019</span><br>
-<small>信息管理与信息系统 · 本科</small>
-
+<small>信息管理与信息系统 · 本科 | 平均成绩: 82 / 100</small>
 ### 工作经历
 
 软件开发工程师 - 科技公司（隐身模式） <span style="float: right; ">2024 - 至今</span>  
